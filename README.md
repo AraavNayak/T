@@ -1,4 +1,4 @@
-# PhysioNet CinC Challenge
+# "You Snooze You Win" Challenge
 
 Tackled a past [PhysioNet/Computing in Cardiology (CinC) Challenge](https://www.physionet.org/challenge/) on the classification of nonarousal and arousal time frames. Check out PhysioNet's [introduction](https://physionet.org/content/challenge-2018/1.0.0/) of the challenge for additional details.
 
